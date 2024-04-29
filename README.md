@@ -207,6 +207,7 @@ Yazılım geliştirme ile ilgili özenle seçilmiş Türkçe kaynaklar listesi.
 - [Sass Rehberi](https://github.com/dferhat/sass-rehberi) - [Ferhat Demir](https://twitter.com/ddemirferhat)
 - :movie_camera: [Sass Örnek Proje](https://www.youtube.com/watch?v=Ew1p3e74eO4) - [Ferhat Demir](https://twitter.com/ddemirferhat)
 - :movie_camera: [Sıfırdan Her Yönüyle CSS3 Dersleri](https://www.youtube.com/playlist?list=PLlwCSYvmr0TTfjObxts8_E-6tsTz91agY) - [Sıfırdan Bire Herşey](https://www.youtube.com/@emresabuncu)
+- :movie_camera: [CSS Dersleri](https://www.youtube.com/playlist?list=PLfAfrKyDRWrFYc77WNfwQpS9-DBBdir_I) - [PROTOTURK](https://www.youtube.com/@PROTOTURKCOM)
 
 ### D
 - [D Programlama Dili](http://ddili.org/ders/d/index.html)
